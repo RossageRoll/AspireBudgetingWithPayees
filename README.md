@@ -1,8 +1,5 @@
-# AspireBudgetingPayees
-Adding Payees to Transactions in Aspire Budgeting
+# Welcome
+This is a lighlty modified version of Aspire Budgeting. In this version, I have added payees to the transactions page, as well as created a payee inflow/ outlow report, similar to the Category Reports page.
 
-*insert template link here *
+You can find a barebones copy of the sheet for you to copy [here](https://docs.google.com/spreadsheets/d/1mYRhGwoYGuQtVcLoTDYOoj8bbAPKFR3uaEPV7IGM0yE/edit?usp=sharing).
 
-1. Copy the Payee's template linked above to your aspire budget
-2. In the Tansactions sheet, expand column "I" then insert 1 column to the right and rehide column "I"
-3. In cell "J8" enter "Payee" or whatever you want to call it
